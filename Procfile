@@ -1,1 +1,1 @@
-worker: python bandit.py
+web: python bandit.py
